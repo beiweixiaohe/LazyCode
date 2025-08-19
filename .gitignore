@@ -1,0 +1,9 @@
+__pycache_
+*.pyc
+test/
+dist/
+tmp/
+.vscode
+build
+*.lock
+*db
